@@ -1,7 +1,32 @@
-h1 {
-	color: aquamarine;
+h1{
+
+	text-align: center;
+	font-family: "Times New Roman";
+	margin-bottom: 30px;
+	color: #ff5d4d;
 }
 
-body {
-	background-color: green;
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+body{
+	background-color: #fff76c;
+}
+
+p{
+	text-align: center;
+	color: #d08cff;
+}
+#image{
+
+	height: 250px;
+	width: 250px;
+}
+
+div{
+	margin-top: 30px;
+	width: 360px;
+	text-align: left;
 }
