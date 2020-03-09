@@ -10,6 +10,7 @@ h1{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	font-size: 25px;
 }
 body{
 	background-color: #fff76c;
@@ -17,6 +18,7 @@ body{
 
 p{
 	text-align: center;
+	font-size: 30px;
 	color: #d08cff;
 }
 #image{
